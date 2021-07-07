@@ -1,7 +1,7 @@
 Git naming convention for this project
 ===================================
 
-How to name branch, commit and push code and working flow in the project
+How to name branch, commit and push code and working flow in the project and more.
 
 
 ## Some links for more in depth learning
