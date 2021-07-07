@@ -1,2 +1,3 @@
 # Team-Management
-Team documentation and guides
+
+This repository contains all team documentation, resources and working guides.
