@@ -42,6 +42,8 @@ You now have a git repository, likely with two branches: master and develop. Now
 Instead, you will create ***feature branches*** on your machine that exist for the purpose of solving singular issues. You will always base your features off the develop branch.
 
 Branch naming convention of this project: based on **Trello** cards
+------------
+
 For example, if the card name is DEV-32
 
 If branch feature/DEV-32 has already existed:
