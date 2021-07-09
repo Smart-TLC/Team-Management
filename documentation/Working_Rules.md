@@ -52,7 +52,7 @@ If branch feature/DEV-32 has already existed:
 
 If not existed:
 
-		git checkout -b my-feature-branch
+	  git checkout -b my-feature-branch
 
 
 Make changes.
