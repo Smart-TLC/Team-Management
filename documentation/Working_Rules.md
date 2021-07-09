@@ -47,9 +47,11 @@ Branch naming convention of this project: based on **Trello** cards
 For example, if the card name is DEV-32
 
 If branch feature/DEV-32 has already existed:
+
     git checkout feature/DEV-32
 
 If not existed:
+
 		git checkout -b my-feature-branch
 
 
@@ -60,4 +62,5 @@ Make changes.
 
 
 After a member commits the code, the team leader will review the code and then merge it to development branch. After the merge, other members need to pull the changes by:
+
     git pull origin development
