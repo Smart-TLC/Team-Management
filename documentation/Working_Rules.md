@@ -59,7 +59,9 @@ Make changes.
 
 	  git add .
 	  git commit -am "I have made some changes."
-
+	  
+Push changes.
+	  git push origin your-branch
 
 After a member commits the code, the team leader will review the code and then merge it to development branch. After the merge, other members need to pull the changes by:
 
